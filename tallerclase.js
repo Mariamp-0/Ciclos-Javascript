@@ -153,7 +153,7 @@
 // let listaDigitos = digitos.split("") //Separar en una lista
 
 // console.log(listaDigitos)
-
+ 
 // let contador = 0
 
 
